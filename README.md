@@ -2,10 +2,10 @@
 
 A lightweight, modern 3D engine built with OpenGL, featuring a flexible rendering pipeline, efficient resource management, and a clean architecture. The engine provides core 3D graphics capabilities and includes example implementations showcasing its features.
 
-![Screenshot of the grass field demo]
+[Grass Field Demo]
 <img width="802" alt="Screenshot 2025-06-17 at 1 34 20 PM" src="https://github.com/user-attachments/assets/e12fd094-fcce-412a-a108-30605c2b03b3" />
 
-![Screenshot of the basic rendering demo]
+[Basic Cube Rendering Demo]
 <img width="799" alt="Screenshot 2025-06-17 at 1 35 08 PM" src="https://github.com/user-attachments/assets/359531c3-bef8-413b-840a-3a0e373a899e" />
 
 ## Core Features
